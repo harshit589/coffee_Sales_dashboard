@@ -64,3 +64,5 @@ Data Visualization
 📌 Conclusion
 
 The Coffee Sales Analysis Dashboard provides meaningful insights into customer behavior, product demand, and store performance, enabling businesses to make informed, data-driven decisions efficiently.
+#screenshot
+https://github.com/harshit589/coffee_Sales_dashboard/blob/main/screenshot%20of%20sales%20dashboard.jpeg
